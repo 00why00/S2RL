@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">S²-RL — Sample-Set Dual Reinforcement Learning</title>
+  <desc id="description">An alembic mark beside S²-RL on a purple and blue banner with illustrated image and segmentation-mask cards. Sample-level alignment and diversity combine with set-level semantic coverage for generative dataset distillation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1400" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18162E"/>
+      <stop offset=".5" stop-color="#242145"/>
+      <stop offset="1" stop-color="#142D43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="63" y1="0" x2="592" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#80B9EE"/>
+      <stop offset="1" stop-color="#D1E6F9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C4B5FD" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="round"><rect width="1400" height="460" rx="28"/></clipPath>
+    <clipPath id="photo"><rect x="897" y="127" width="198" height="157" rx="9"/></clipPath>
+    <clipPath id="mask"><rect x="1095" y="191" width="198" height="157" rx="9"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1400" height="460" fill="url(#background)"/>
+    <rect width="1400" height="460" fill="url(#grid)"/>
+    <circle cx="1257" cy="89" r="253" fill="#547FBA" fill-opacity=".06"/>
+    <circle cx="1270" cy="88" r="335" stroke="#76B3DB" stroke-opacity=".08"/>
+    <circle cx="1270" cy="88" r="379" stroke="#76B3DB" stroke-opacity=".06"/>
+    <path d="M65 403H1335" stroke="#C7D2FE" stroke-opacity=".12"/>
+
+    <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <rect x="65" y="49" width="6" height="17" rx="3" fill="#A78BFA"/>
+      <text x="85" y="63" font-size="16" font-weight="600" letter-spacing="3" fill="#C5C6E1">GENERATIVE DATASET DISTILLATION</text>
+      <text x="64" y="184" font-size="96" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" fill="#F0EDFF">⚗️</text>
+      <text x="184" y="194" font-size="116" font-weight="750" letter-spacing="-5" fill="url(#accent)">S²-RL</text>
+      <text x="66" y="255" font-size="30" font-weight="600" letter-spacing="-.5" fill="#F0EDFF">Sample-Set Dual Reinforcement Learning</text>
+      <text x="66" y="299" font-size="21" fill="#B9BAD3">Better samples. Broader semantic coverage.</text>
+
+      <rect x="66" y="335" width="160" height="34" rx="17" fill="#A78BFA" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".28"/>
+      <text x="146" y="357" text-anchor="middle" font-size="14" font-weight="600" fill="#DDD6FE">SD3.5 MEDIUM</text>
+      <rect x="237" y="335" width="110" height="34" rx="17" fill="#67E8F9" fill-opacity=".08" stroke="#67E8F9" stroke-opacity=".23"/>
+      <text x="292" y="357" text-anchor="middle" font-size="14" font-weight="600" fill="#BAF3FA">ADE20K</text>
+      <rect x="358" y="335" width="87" height="34" rx="17" fill="#67E8F9" fill-opacity=".08" stroke="#67E8F9" stroke-opacity=".23"/>
+      <text x="401.5" y="357" text-anchor="middle" font-size="14" font-weight="600" fill="#BAF3FA">COCO</text>
+
+      <path d="M894 82C779 78 789 345 964 363" stroke="#A78BFA" stroke-width="2" stroke-dasharray="5 7" stroke-opacity=".48"/>
+      <path d="M1313 168C1363 192 1370 293 1309 336" stroke="#67E8F9" stroke-width="2" stroke-dasharray="5 7" stroke-opacity=".42"/>
+
+      <rect x="901" y="114" width="230" height="218" rx="16" fill="#10192F" stroke="#7C85B0" stroke-opacity=".35"/>
+      <rect x="881" y="91" width="230" height="218" rx="16" fill="#F0F1FB"/>
+      <circle cx="900" cy="110" r="4" fill="#9D89DF"/>
+      <text x="913" y="115" font-size="12" font-weight="700" letter-spacing="1.8" fill="#575C7A">IMAGE</text>
+      <g clip-path="url(#photo)">
+        <rect x="897" y="127" width="198" height="157" fill="#BCD6F0"/>
+        <circle cx="1058" cy="155" r="17" fill="#FCE7BA"/>
+        <path d="M891 228L948 166L1009 239L1051 196L1108 238V292H891Z" fill="#93A9B0"/>
+        <path d="M921 197L948 166L975 198L947 187Z" fill="#F2F0E8"/>
+        <path d="M895 246C942 219 972 253 1013 230C1052 211 1060 229 1101 237V284H895Z" fill="#729D91"/>
+        <path d="M987 238L1000 236L1041 285H963Z" fill="#D4C6A6"/>
+        <path d="M914 247L929 204L944 247Z" fill="#406E65"/>
+        <rect x="927" y="239" width="4" height="24" fill="#496B61"/>
+      </g>
+      <path d="M988 293H1007" stroke="#BFC3D7" stroke-width="3" stroke-linecap="round"/>
+
+      <rect x="1100" y="179" width="230" height="214" rx="16" fill="#101D31" stroke="#7EB0C7" stroke-opacity=".3"/>
+      <rect x="1079" y="155" width="230" height="218" rx="16" fill="#F0F1FB"/>
+      <circle cx="1098" cy="174" r="4" fill="#24ABA9"/>
+      <text x="1111" y="179" font-size="12" font-weight="700" letter-spacing="1.8" fill="#575C7A">SEMANTIC MASK</text>
+      <g clip-path="url(#mask)">
+        <rect x="1095" y="191" width="198" height="157" fill="#A89AE5"/>
+        <path d="M1089 292L1146 230L1207 303L1249 260L1306 302V356H1089Z" fill="#F1BB73"/>
+        <path d="M1093 310C1140 283 1170 317 1211 294C1250 275 1258 293 1299 301V348H1093Z" fill="#65CFBF"/>
+        <path d="M1185 302L1198 300L1239 349H1161Z" fill="#F08AA9"/>
+        <path d="M1112 311L1127 268L1142 311Z" fill="#5588CD"/>
+        <rect x="1125" y="303" width="4" height="24" fill="#5588CD"/>
+      </g>
+      <path d="M1186 357H1205" stroke="#BFC3D7" stroke-width="3" stroke-linecap="round"/>
+
+      <rect x="914" y="41" width="290" height="34" rx="17" fill="#363050" stroke="#7D6AA9" stroke-opacity=".55"/>
+      <circle cx="934" cy="58" r="4" fill="#C4B5FD"/>
+      <text x="949" y="64" font-size="16" font-weight="500" fill="#E0D8FA">Alignment + diversity</text>
+      <rect x="863" y="344" width="227" height="35" rx="17.5" fill="#233B4E" stroke="#569CAA" stroke-opacity=".5"/>
+      <circle cx="883" cy="361" r="4" fill="#67E8F9"/>
+      <text x="898" y="367" font-size="16" font-weight="500" fill="#C7EEF2">Semantic coverage</text>
+      <text x="66" y="433" font-size="13" font-weight="500" letter-spacing="2" fill="#999DBD">SAMPLE QUALITY + SET COVERAGE</text>
+      <text x="1334" y="433" text-anchor="end" font-size="13" fill="#999DBD">Image–mask datasets for semantic segmentation</text>
+    </g>
+  </g>
+</svg>
