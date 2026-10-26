@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+qa/
+static/pdfs/
+ASSET_MANIFEST.json
+NATIVE_ASSET_MANIFEST.json
