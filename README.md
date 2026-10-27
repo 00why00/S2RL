@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://00why00.github.io/S2RL/"><img src="https://img.shields.io/badge/Project-Page-4F46E5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
-  <a href="#citation"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-B31B1B?style=flat-square&amp;logo=arxiv&amp;logoColor=white" alt="arXiv (coming soon)"></a>
+  <a href="https://arxiv.org/abs/2610.35491"><img src="https://img.shields.io/badge/arXiv-2610.35491-B31B1B?style=flat-square&amp;logo=arxiv&amp;logoColor=white" alt="arXiv: 2610.35491"></a>
   <a href="#training"><img src="https://img.shields.io/badge/Backbone-SD3.5_Medium-8B5CF6?style=flat-square" alt="Stable Diffusion 3.5 Medium"></a>
   <a href="https://huggingface.co/0why0/S2RL"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Data_%26_Models-FFD21E?style=flat-square" alt="Hugging Face Data and Models"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-14B8A6?style=flat-square" alt="MIT License"></a>
@@ -208,10 +208,10 @@ This implementation builds on [Flow-GRPO](https://github.com/yifan123/flow_grpo)
   title={S$^2$-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation},
   author={Haoyu Wang and Fei Zhou and Qingqing Qiu and Lei Zhang and Wei Wei and Chen Ding},
   year={2026},
-  eprint={ARXIV_ID},
+  eprint={2610.35491},
   archivePrefix={arXiv},
   primaryClass={cs.CV},
-  url={https://arxiv.org/abs/ARXIV_ID}
+  url={https://arxiv.org/abs/2610.35491}
 }
 ```
 

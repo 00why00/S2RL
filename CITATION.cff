@@ -17,3 +17,22 @@ authors:
     given-names: Chen
 repository-code: "https://github.com/00why00/S2RL"
 license: MIT
+preferred-citation:
+  type: article
+  title: "S²-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation"
+  authors:
+    - family-names: Wang
+      given-names: Haoyu
+    - family-names: Zhou
+      given-names: Fei
+    - family-names: Qiu
+      given-names: Qingqing
+    - family-names: Zhang
+      given-names: Lei
+    - family-names: Wei
+      given-names: Wei
+    - family-names: Ding
+      given-names: Chen
+  year: 2026
+  journal: "arXiv preprint arXiv:2610.35491"
+  url: "https://arxiv.org/abs/2610.35491"
