@@ -16,12 +16,11 @@ python3 tools/serve.py
 The [project page](https://00why00.github.io/S2RL/) is published from the root of
 the independent `gh-pages` branch in
 [`00why00/S2RL`](https://github.com/00why00/S2RL). The `main` branch contains the
-research code. Each branch has one initial commit. GitHub Pages uses `gh-pages`
-and `/(root)` as its publishing source.
+research code. GitHub Pages uses `gh-pages` and `/(root)` as its publishing source.
 
 The site includes its display assets and `.nojekyll`; no build step is required.
-Code, weights, and dataset links point to the release repositories. Replace
-`ARXIV_ID` in the citation and add the arXiv abstract link when available.
+The paper is available on [arXiv](https://arxiv.org/abs/2610.35491).
+Code, weights, and dataset links point to the release repositories.
 
 ## Template attribution and license
 
